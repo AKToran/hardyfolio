@@ -41,7 +41,7 @@ body{
 }
 
 .section-description{
-    font-size: 15px;
+    font-size: 16px;
     color: #757575;
     
 }
@@ -143,7 +143,7 @@ main{
 /* about */
 .about{
     border-radius: 10px;
-    padding: 120px 150px;
+    padding: 100px 130px;
     text-align: center;
     margin: 130px 0px;
 }
@@ -155,4 +155,27 @@ main{
 
 .item-desc{
     font-weight: 700;
+}
+
+.what-i-do{
+    text-align: center; 
+    padding: 0px 150px;
+}
+
+.skills-container{
+    display: flex;
+    gap: 30px;
+    margin: 50px 0;
+}
+
+.skill-title{
+    font-size: 25px;
+}
+
+.skill{
+    padding: 30px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, .1) 0px 6px 50px 0px;
+    /** x axis, y axis, blur, spread */
 }
