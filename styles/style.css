@@ -215,7 +215,7 @@ main{
 
 footer{
     display: flex;
-    padding: 100px 250px;
+    padding: 80px 180px;
     gap: 100px;
 }
 
@@ -239,7 +239,7 @@ footer input[type="text"],footer input[type="email"], footer textarea{
     padding: 10px 20px;
     margin-bottom: 24px;
     border: none;
-    font-size: 18px;
+    font-size: 16px;
     
 }
 
